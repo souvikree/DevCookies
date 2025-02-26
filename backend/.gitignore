@@ -1,7 +1,6 @@
 # Ignore node_modules directory
 node_modules/
 .env
-backend/src/config/serviceAccountKey.json
 # Ignore Docker build files
 Dockerfile
 docker-compose.yml
