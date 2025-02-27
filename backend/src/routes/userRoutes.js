@@ -1,1 +1,1 @@
-//userRoutes.js , it's for user related routes
+//userRoutes.js , it's for user related routes and functions and to handle user requests and responses
